@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aditya Narayan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya </h1>
 <h3 align="center">🚀 Fullstack Developer | AI Engineer | BCA 2025 Graduate</h3>
 
 <p align="center">
-  <em>Building intelligent, scalable, and beautiful web applications with modern tech stacks.</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Web+Apps;Crafting+Scalable+Backends;Exploring+Agentic+AI+Workflows;Fullstack+Development+%26+AI" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityanarayan26&theme=flat&no-frame=true&margin-w=15" alt="adityanarayan26" />
+    <img src="https://github-profile-trophy.vercel.app/?username=adityanarayan26" alt="adityanarayan26" />
   </a> 
 </p>
 
@@ -68,13 +70,17 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityanarayan26&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanarayan26&show_icons=true&theme=radical&layout=compact&hide_border=true" height="150" alt="languages graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanarayan26&theme=radical&hide_border=true" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityanarayan26&show_icons=true&locale=en" alt="adityanarayan26" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanarayan26&show_icons=true&locale=en&layout=compact" alt="adityanarayan26" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanarayan26&" alt="adityanarayan26" />
+</p>
 
 ---
 
