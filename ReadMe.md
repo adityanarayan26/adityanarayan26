@@ -1,17 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya</h1>
 <h3 align="center">🚀 Fullstack Developer | AI Engineer | BCA 2025 Graduate</h3>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Intelligent+Web+Apps;Crafting+Scalable+Backends;Exploring+Agentic+AI+Workflows;Fullstack+Development+%26+AI" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
-<p align="center"> 
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityanarayan26" alt="adityanarayan26" />
-  </a> 
-</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=adityanarayan26" alt="trophy" />
+  </a>
+</div>
 
 ---
 
@@ -39,48 +39,45 @@
 
 ### 🛠️ Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend & Cloud</strong></td>
-    <td align="center" width="25%"><strong>AI Engineering</strong></td>
-    <td align="center" width="25%"><strong>Languages & Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" /><br>
-      GSAP, Framer Motion
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,aws,gcp" /><br>
-      Convex, PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
-      Gemini, OpenAI, Deepgram, LangChain
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,docker" /><br>
-      TypeScript, Git
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>Frontend</strong></td>
+      <td align="center" width="25%"><strong>Backend & Cloud</strong></td>
+      <td align="center" width="25%"><strong>AI Engineering</strong></td>
+      <td align="center" width="25%"><strong>Languages & Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux" /><br>
+        GSAP, Framer Motion
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,aws,gcp" /><br>
+        Convex, PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
+        Gemini, OpenAI, Deepgram, LangChain
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,docker" /><br>
+        TypeScript, Git
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityanarayan26&show_icons=true&locale=en" alt="adityanarayan26" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanarayan26&show_icons=true&locale=en&layout=compact" alt="adityanarayan26" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanarayan26&" alt="adityanarayan26" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityanarayan26&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityanarayan26&show_icons=true&theme=radical&layout=compact&hide_border=true" height="150" alt="languages graph" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityanarayan26&theme=radical&hide_border=true" height="150" alt="streak graph" />
+</div>
 
 ---
 
@@ -90,6 +87,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://portfolio.aditya-dev.works" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/internet.png" alt="portfolio" height="40" width="40" />
+    <img align="center" src="https://img.icons8.com/social/40/internet.png" alt="portfolio" />
   </a>
 </p>
